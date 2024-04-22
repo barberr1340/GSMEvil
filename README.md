@@ -144,3 +144,4 @@ Website  : https://www.ninjhacks.com<br/>
 Facebook : https://www.facebook.com/ninjhacks<br/>
 Twitter  : https://twitter.com/ninjhacks<br/>
 Email    : help@ninjhacks.com
+python SmsEvil.py -n 6624614857
